@@ -1,0 +1,14 @@
+/Users/rogerdebry/RiderProjects/ListDemo/bin/Debug/net8.0/ListDemo
+/Users/rogerdebry/RiderProjects/ListDemo/bin/Debug/net8.0/ListDemo.deps.json
+/Users/rogerdebry/RiderProjects/ListDemo/bin/Debug/net8.0/ListDemo.runtimeconfig.json
+/Users/rogerdebry/RiderProjects/ListDemo/bin/Debug/net8.0/ListDemo.dll
+/Users/rogerdebry/RiderProjects/ListDemo/bin/Debug/net8.0/ListDemo.pdb
+/Users/rogerdebry/RiderProjects/ListDemo/obj/Debug/net8.0/ListDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rogerdebry/RiderProjects/ListDemo/obj/Debug/net8.0/ListDemo.AssemblyInfoInputs.cache
+/Users/rogerdebry/RiderProjects/ListDemo/obj/Debug/net8.0/ListDemo.AssemblyInfo.cs
+/Users/rogerdebry/RiderProjects/ListDemo/obj/Debug/net8.0/ListDemo.csproj.CoreCompileInputs.cache
+/Users/rogerdebry/RiderProjects/ListDemo/obj/Debug/net8.0/ListDemo.dll
+/Users/rogerdebry/RiderProjects/ListDemo/obj/Debug/net8.0/refint/ListDemo.dll
+/Users/rogerdebry/RiderProjects/ListDemo/obj/Debug/net8.0/ListDemo.pdb
+/Users/rogerdebry/RiderProjects/ListDemo/obj/Debug/net8.0/ListDemo.genruntimeconfig.cache
+/Users/rogerdebry/RiderProjects/ListDemo/obj/Debug/net8.0/ref/ListDemo.dll
